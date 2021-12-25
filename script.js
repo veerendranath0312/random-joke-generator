@@ -34,5 +34,5 @@ const getRandomJoke = async function () {
 }
 
 changeColor()
-generateRandomColor()
+getRandomJoke()
 button.addEventListener('click', getRandomJoke)
